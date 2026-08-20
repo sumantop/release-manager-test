@@ -1,0 +1,2 @@
+-- XYNE-501
+ALTER TABLE users ADD COLUMN col_501 text;
